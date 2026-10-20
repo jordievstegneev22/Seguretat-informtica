@@ -1,1 +1,1 @@
-# Seguretat-inform-tica
+# Seguretat-informtica
