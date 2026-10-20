@@ -1,6 +1,6 @@
 # Informe: Gestors de contrasenyes a EverPia
 
-**Autor:** _(posa aquí el teu nom)_ · **Data:** 20/10/2026
+**Autor:** _Jordi Evstegneev_ · **Data:** 20/10/2026
 
 ## Índex
 

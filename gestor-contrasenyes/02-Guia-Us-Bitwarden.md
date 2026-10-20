@@ -1,6 +1,6 @@
 # Guia d'Ús Tècnica: Bitwarden
 
-**Autor:** _(posa aquí el teu nom)_ · **Data:** 20/10/2026
+**Autor:** _Jordi Evstegneev_ · **Data:** 20/10/2026
 
 Aquesta guia és per a l'equip tècnic d'EverPia. Explica pas a pas com instal·lar Bitwarden a Windows 11, com generar contrasenyes segures, com guardar les credencials, com fer servir l'emplenament automàtic i com fer còpies de seguretat.
 
